@@ -1,7 +1,6 @@
 # FaceGate: Facial Recognition Access Control System
 
 > Developed by **Federico Patrilla** — [Patrilla Comunicaciones](https://patrillacomunicaciones.com)
-> Live web demo: [controlacceso-pichihuinca.vercel.app](https://controlacceso-pichihuinca.vercel.app)
 
 ---
 
